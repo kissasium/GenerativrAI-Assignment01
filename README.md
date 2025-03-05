@@ -1,4 +1,2 @@
 # Assignment
-
-## Description
-You can find the question [here](AssignmentQuestions.pdf).
+You can find the  Assignment questions [here](AssignmentQuestions.pdf).
